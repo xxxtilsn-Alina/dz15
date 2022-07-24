@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #e85c4b;
+}
+
+.button {
+  text-decoration: none;
+  color: #923429;
+  display: block;
+  padding: 20px 0 20px 55px;
+  font-size: 20px;
+  transition: 0.2s;
+}
+
+.button:hover {
+  background-color: #b43324;
+  color: white;
+}
+
+.menu {
+  width: 350px;
+  background-color: white;
+  margin: auto;
+  margin-top: 200px;
+}
+
+.div {
+  border-left: 14px solid #b43324;
+}
+
+.div:hover {
+  border-left: 14px solid #fa8375;
+}
+
+.btn {
+  list-style: none;
+}
